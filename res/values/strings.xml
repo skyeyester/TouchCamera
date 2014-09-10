@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TouchCamera</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Touch Screen with Two Point to Capture</string>
     <string name="action_settings">Settings</string>
 
 </resources>
